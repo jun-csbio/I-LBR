@@ -4,7 +4,7 @@ A Query-Specific Ligand-Binding Residue Identification based on protein sequence
 ## Pre-requisite:
     - Python, Java, Perl
     - SANN software (https://github.com/newtonjoo/sann)
-    - NCBI nr database (ftp://ftp.ncbi.nlm.nih.gov/blast/db/FASTA/)
+    - NCBI nr90 database (ftp://ftp.ncbi.nlm.nih.gov/blast/db/FASTA/)
 
 ## Installation:
 
@@ -15,7 +15,7 @@ A Query-Specific Ligand-Binding Residue Identification based on protein sequence
   $ java xxxxx
 ~~~
 
-*Edit NCBIDIR and nr90 variable in the script “sann.sh”
+*Edit the SANN and nr90 variable in the file “Config.properties”
 
 ## Update History:
 
