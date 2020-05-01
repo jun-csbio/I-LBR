@@ -12,10 +12,10 @@ A Query-Specific Ligand-Binding Residue Identification based on protein sequence
 ~~~
   $ tar xvzf I-LBR.tar.gz
   $ cd I-LBR
-  $ java xxxxx
+  $ java -jar I-LBR.jar "2w1aC" "EIDTLREEIDRLDAEILALVKRRAEVSKAIGKARMASGGTRLVHSREMKVIERYSELGPDGKDLAILLLRLGRGRLGH" null 0.3 ./tempfolder ./savefolder 4
 ~~~
 
-*Edit the SANN and nr90 variable in the file “Config.properties”
+*Edit the SANN_RUNNER_PATH and BLASTPGP_DB_PATH variable in the file “Config.properties”
 
 ## Update History:
 
