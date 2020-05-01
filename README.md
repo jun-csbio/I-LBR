@@ -2,7 +2,7 @@
 A Query-Specific Ligand-Binding Residue Identification based on protein sequence and support vector machine
 
 ## Pre-requisite:
-    - Python, Java, Perl, Shell
+    - Python, Java, Perl
     - SANN software (https://github.com/newtonjoo/sann)
     - NCBI nr database (ftp://ftp.ncbi.nlm.nih.gov/blast/db/FASTA/)
 
